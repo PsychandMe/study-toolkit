@@ -2,7 +2,7 @@
 
 A calm, offline-friendly study planner. Plan your day, focus in short blocks, then reflect, with comfort and accessibility options built in from the start.
 
-**Live app:** https://YOUR-USERNAME.github.io/study-toolkit/
+**Live app:** https://psychandme.github.io/study-toolkit/
 
 ## What it does
 
